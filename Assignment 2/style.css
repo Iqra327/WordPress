@@ -1,8 +1,17 @@
 .container{
-  margin:40px;
   padding:40px;
   background-color: antiquewhite;
 }
 .Heading-First{
   text-align: center;
+}
+.list{
+  font-weight: bold;
+}
+th{
+  padding:10px;
+}
+td{
+  padding:10px;
+  background-color: rgb(200, 89, 89);
 }

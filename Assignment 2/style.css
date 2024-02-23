@@ -1,6 +1,7 @@
 .container{
+  background-color: bisque;
   padding:40px;
-  background-color: antiquewhite;
+  
 }
 .Heading-First{
   text-align: center;
@@ -16,6 +17,7 @@ td{
   background-color: rgb(200, 89, 89);
 }
 .form{
+  background-color: rgb(71, 184, 184);
   margin-left: 38%;
   border:solid;
   border-color: brown;

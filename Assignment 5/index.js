@@ -1,5 +1,5 @@
 let main_img = document.getElementById('img1');
-let all_imgs = ['./Images/istockphoto-1146517111-612x612.jpg', './Images/sea-164989_640.jpg', './Images/view.jpg', './Images/image-7.jpg', './Images/nature-image-for-website.jpg', './Images/free-Images.jpg'];
+let all_imgs = ['./Images/istockphoto-1146517111-612x612.jpg', './Images/sea-164989_640.jpg', './Images/view.jpg', './Images/image-7.jpg', './Images/nature-image-for-website.jpg', './Images/free-images.jpg'];
 let currentIndex = 0;
 
 function mySlider(){
